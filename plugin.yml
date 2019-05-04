@@ -1,0 +1,6 @@
+main: net.consus.main.Main
+name: ConsusCities
+author: TheDrpGamerX
+version: 0.1
+api-version: 1.12.2
+depend: [Factions]
